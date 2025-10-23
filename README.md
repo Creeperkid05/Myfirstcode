@@ -11,3 +11,4 @@
 10.git log --online -show an abbreviated log of all my commits
 11.git switch -c branchname hash -switch to a new branch called branchname with a has "hash"
 12.git switch branchname -switch to an existing branch
+#Myfirstcode
